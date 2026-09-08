@@ -24,6 +24,8 @@
 
 ## Roles
 - PM — grooms a task before anyone implements it, follows `_docs/team/pm.md`
+- Engineer — implements one groomed task, follows `_docs/team/software-engineer.md`
+- QA — checks the result against the acceptance criteria, follows `_docs/team/qa-engineer.md`
 - **Labels**: `AMVP` (Assumed Minimum Viable Product) for core MVP issues (2‑31); `post‑MVP` for out‑of‑scope issues.
 
 - All documents in `_docs/` and `AGENTS.md` are living documents.
