@@ -11,3 +11,4 @@ uploads/*
 *.db
 *.db-journal
 .DS_Store
+label_issues.ps1
