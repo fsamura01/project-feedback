@@ -21,6 +21,11 @@
 - Maintain data integrity: never implement hard deletion for weekly check-ins or project updates (auditability requirement).
 
 ## 5. Living Documentation & Continuous Improvement
+
+## Roles
+- PM — grooms a task before anyone implements it, follows `_docs/team/pm.md`
+- **Labels**: `AMVP` (Assumed Minimum Viable Product) for core MVP issues (2‑31); `post‑MVP` for out‑of‑scope issues.
+
 - All documents in `_docs/` and `AGENTS.md` are living documents.
 - When corrections, feedback, or operational clarifications occur during a session, identify the relevant document (`_docs/process.md`, `_docs/testing-guidelines.md`, `_docs/design-system.md`, etc.) and update it.
 - Updating documentation prevents recurring errors and ensures subsequent sessions retain full project knowledge.
